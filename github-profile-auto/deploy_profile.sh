@@ -4,6 +4,8 @@
 # ═══════════════════════════════════════════════════════
 set -e
 
+# Set GITHUB_TOKEN as an environment variable before running this script:
+#   export GITHUB_TOKEN="your_personal_access_token"
 TOKEN="${GITHUB_TOKEN:?Error: GITHUB_TOKEN environment variable is not set}"
 USERNAME="Tejzraj"
 REPO_DIR="$(dirname "$0")/Tejzraj"
