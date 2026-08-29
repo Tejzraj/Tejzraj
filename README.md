@@ -272,27 +272,51 @@ Working on an intelligent monitoring system for vetiver cultivation.
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ======================= GITHUB ACTIVITY ======================= -->
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/Tejzraj" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tejzraj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats"/>
-</a>
-
-<a href="https://github.com/Tejzraj" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejzraj&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+<a href="https://github.com/Tejzraj" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://streak-stats.demolab.com?user=Tejzraj&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F78166&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=58A6FF&sideNums=58A6FF"
+    alt="GitHub Streak"
+    width="70%"
+  />
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Tejzraj&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F78166&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=58A6FF&sideNums=58A6FF" width="70%" alt="GitHub Streak"/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejzraj&theme=tokyonight"
+  alt="GitHub Contribution Summary"
+  width="95%"
+/>
 
 <br/><br/>
 
-<a href="https://github.com/Tejzraj" target="_blank">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejzraj&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F78166&area=true&area_color=58A6FF&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph"/>
-</a>
+<table>
+<tr>
+<td align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tejzraj&theme=tokyonight"
+  alt="Repositories Per Language"
+/>
+
+</td>
+
+<td align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tejzraj&theme=tokyonight"
+  alt="Most Commit Language"
+/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
