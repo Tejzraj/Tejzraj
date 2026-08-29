@@ -199,23 +199,108 @@ Working on an intelligent monitoring system for vetiver cultivation.
 </table>
 
 ---
+<!-- ======================= FEATURED PROJECTS ======================= -->
 
 ## 📌 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/Tejzraj" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tejzraj&repo=CyberLex-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="CyberLex-AI"/>
-</a>
+<table>
+<tr>
 
-<a href="https://github.com/Tejzraj" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tejzraj&repo=synthshield&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="SynthShield"/>
-</a>
+<td width="50%" valign="top">
 
-</div>
+### 🧠 Human-Brain Interface for Smart Automation
+
+A brain-computer interface prototype designed to explore
+smart device control using **EEG signals**.
 
 <br/>
 
+**Tech & Concepts**
+
+`AI` `EEG` `Smart Automation`
+
+<br/>
+
+<a href="https://github.com/Tejzraj" target="_blank" rel="noopener noreferrer">
+  🔗 Explore My GitHub
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 👁️ Smart AI Attendance System
+
+An automated attendance proof-of-concept using
+**YOLOv8 and face recognition**.
+
+<br/>
+
+**Tech & Concepts**
+
+`Python` `YOLOv8` `OpenCV` `Computer Vision`
+
+<br/>
+
+<a href="https://github.com/Tejzraj" target="_blank" rel="noopener noreferrer">
+  🔗 Explore My GitHub
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 LinkBrain
+
+A collaborative AI framework concept enabling
+intelligent computing across multiple **edge devices**.
+
+<br/>
+
+**Tech & Concepts**
+
+`AI` `Edge Computing` `Distributed Intelligence`
+
+<br/>
+
+<a href="https://github.com/Tejzraj" target="_blank" rel="noopener noreferrer">
+  🔗 Explore My GitHub
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💬 Ethical AI Chatbot
+
+A responsible AI chatbot designed around
+user-centric conversations and ethical AI principles.
+
+<br/>
+
+**Tech & Concepts**
+
+`AI` `LLM` `Responsible AI`
+
+<br/>
+
+<a href="https://github.com/Tejzraj" target="_blank" rel="noopener noreferrer">
+  🔗 Explore My GitHub
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 ### 🧠 Human-Brain Interface for Smart Automation
 
 > A brain-controlled smart automation prototype using **EEG signals** to explore how neural activity can interact with intelligent devices.
