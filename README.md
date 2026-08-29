@@ -1,234 +1,394 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Likhith%20Raj&fontSize=80&fontAlignY=38&animation=fadeIn&fontColor=fff&desc=Building%20the%20Future%2C%20One%20Commit%20at%20a%20Time&descSize=22&descAlignY=62" width="100%"/>
+<!-- ======================= HERO SECTION ======================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Likhith%20Raj&fontSize=80&fontAlignY=38&animation=fadeIn&fontColor=fff&desc=Building%20Intelligent%20Systems%2C%20One%20Commit%20at%20a%20Time&descSize=22&descAlignY=62" width="100%"/>
 
 <div align="center">
 
-<a href="https://github.com/Tejzraj">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=900&color=58A6FF&center=true&vCenter=true&random=false&width=650&height=65&lines=Full+Stack+Developer+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%A7%A0;Open+Source+Enthusiast+%F0%9F%8C%9F;AI+%26+ML+Engineer+%F0%9F%A4%96;Turning+Ideas+into+Products+%E2%9A%A1" alt="Typing SVG" />
+<a href="https://github.com/Tejzraj" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=900&color=58A6FF&center=true&vCenter=true&random=false&width=750&height=65&lines=AI+%26+ML+Engineer+%F0%9F%A4%96;Computer+Vision+Explorer+%F0%9F%91%81%EF%B8%8F;IoT+%26+Edge+AI+Builder+%F0%9F%9A%80;Research+%26+Innovation+Enthusiast+%F0%9F%94%AC;Turning+Ideas+into+Intelligent+Systems+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![followers](https://img.shields.io/github/followers/Tejzraj?style=for-the-badge&logo=github&color=58A6FF&labelColor=0D1117&label=Followers)](https://github.com/Tejzraj?tab=followers)
-[![views](https://komarev.com/ghpvc/?username=Tejzraj&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=Profile+Views)](https://github.com/Tejzraj)
-[![stars](https://img.shields.io/github/stars/Tejzraj?style=for-the-badge&logo=github&color=F78166&labelColor=0D1117&label=Total+Stars)](https://github.com/Tejzraj)
+<a href="https://github.com/Tejzraj?tab=followers" target="_blank">
+  <img src="https://img.shields.io/github/followers/Tejzraj?style=for-the-badge&logo=github&color=58A6FF&labelColor=0D1117&label=Followers" alt="GitHub Followers"/>
+</a>
+
+<a href="https://github.com/Tejzraj" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=Tejzraj&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=Profile+Views" alt="Profile Views"/>
+</a>
+
+<a href="https://leetcode.com/u/profraj/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" alt="LeetCode"/>
+</a>
 
 </div>
-
----
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> &nbsp; About Me
-
-<table>
-<tr>
-<td valign="top" width="52%">
-
-```typescript
-const likhithRaj = {
-  name      : "Likhith Raj",
-  username  : "Tejzraj",
-  location  : "India 🇮🇳",
-  role      : "Full Stack Developer & AI Engineer",
-
-  passion   : [
-    "Building AI-powered applications",
-    "Clean, scalable architecture",
-    "Open source collaboration",
-    "Shipping things that matter",
-  ],
-
-  stack     : ["TypeScript", "Python", "React",
-               "Node.js", "FastAPI", "MongoDB"],
-
-  openTo    : "Collaborations & Freelance 🤝",
-  funFact   : "Automated my GitHub profile with AI 🤖",
-};
-```
-
-</td>
-<td valign="top" width="48%">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:10px"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36"/> &nbsp; Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Three.js-000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
-
-</td>
-<td valign="top" width="50%">
-
-### 🤖 AI / ML
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
-
-### ☁️ DevOps & Cloud
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp; GitHub Analytics
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejzraj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" height="185" alt="GitHub Stats"/>
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejzraj&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="185" alt="Top Languages"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Tejzraj&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F78166&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=58A6FF&sideNums=58A6FF" width="68%" alt="Streak Stats"/>
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tejzraj&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F78166&area=true&area_color=58A6FF&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/Tejzraj)
+<!-- ======================= ABOUT ME ======================= -->
 
-</div>
+## 👨🏻‍💻 About Me
+
+<table>
+<tr>
+<td valign="top" width="55%">
+
+```python
+class LikhithRaj:
+
+    def __init__(self):
+        self.name = "Likhith Raj"
+        self.username = "Tejzraj"
+        self.location = "Bengaluru, India 🇮🇳"
+
+        self.education = (
+            "B.E. Computer Science & Engineering "
+            "(AI & ML)"
+        )
+
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Computer Vision",
+            "IoT Systems",
+            "Edge AI"
+        ]
+
+        self.current_focus = [
+            "Building intelligent systems",
+            "Applied AI research",
+            "Real-world problem solving",
+            "Data Structures & Algorithms"
+        ]
+
+    def motto(self):
+        return "Build. Learn. Research. Repeat. 🚀"
+```
+
+</td>
+
+<td valign="top" width="45%">
+
+### 🎓 Education
+
+**RV College of Engineering, Bengaluru**
+
+B.E. Computer Science & Engineering
+**Artificial Intelligence & Machine Learning**
+
+📅 2024 – 2028
+🎯 **CGPA: 8.36 / 10**
+
+<br/>
+
+### 🧠 What I Enjoy Building
+
+🤖 Intelligent AI Systems
+👁️ Computer Vision Solutions
+🌱 IoT Monitoring Systems
+⚡ Smart Automation
+🔬 Research Prototypes & POCs
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 &nbsp; Trophies
+## 🚀 What I'm Working On
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔭 Currently Exploring
+
+* 🤖 Advanced **AI & Machine Learning**
+* 👁️ **Computer Vision** applications
+* 🌐 Intelligent **IoT systems**
+* 🧠 Collaborative **Edge AI**
+* 📊 Applied research & experimentation
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 Currently Improving
+
+* 💻 Data Structures & Algorithms
+* 🐍 Advanced Python development
+* 🔬 Machine Learning workflows
+* 📷 Image processing techniques
+* 🏗️ Scalable intelligent system design
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Tejzraj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/Tejzraj)
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,java&theme=dark" />
+
+<br/><br/>
+
+### 🤖 AI / ML / Computer Vision
+
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch&theme=dark" />
+
+<br/><br/>
+
+### 🔌 IoT & Development Tools
+
+<img src="https://skillicons.dev/icons?i=arduino,git,github,vscode&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/IoT%20Systems-00A98F?style=for-the-badge&logo=internetofthings&logoColor=white"/>
+<img src="https://img.shields.io/badge/Image%20Processing-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🐍 &nbsp; Contribution Snake
+## 🔬 Research Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 O-Ring Defect Detection using ML
+
+**Machine Learning Researcher**
+📍 RV College of Engineering
+📅 Aug 2025 – Mar 2026
+
+Worked under faculty guidance on a real-world manufacturing quality inspection problem.
+
+* Developed an ML-based approach for detecting **O-Ring defects**
+* Applied image processing techniques for industrial quality inspection
+* Documented technical findings and presented the approach
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 Vetiver Plant Monitoring System
+
+**Research Assistant**
+📍 RV College of Engineering
+📅 Aug 2025 – Present
+
+Working on an intelligent monitoring system for vetiver cultivation.
+
+* Monitored plant growth and water-quality indicators
+* Designed a hydroponic-aquaponic cultivation system
+* Developed automation and web-based monitoring concepts
+* Focused on sensor integration and environmental data
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Tejzraj" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tejzraj&repo=CyberLex-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="CyberLex-AI"/>
+</a>
+
+<a href="https://github.com/Tejzraj" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tejzraj&repo=synthshield&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="SynthShield"/>
+</a>
+
+</div>
+
+<br/>
+
+### 🧠 Human-Brain Interface for Smart Automation
+
+> A brain-controlled smart automation prototype using **EEG signals** to explore how neural activity can interact with intelligent devices.
+
+**Focus:** Brain-Computer Interfaces • Smart Automation • Intelligent Systems
+
+---
+
+### 👁️ Smart AI Attendance System
+
+> An end-to-end attendance automation proof-of-concept using **YOLOv8 and face recognition**, designed to identify and record attendance automatically.
+
+**Focus:** Computer Vision • Face Recognition • YOLO • Automation
+
+---
+
+### 🌐 LinkBrain — Collaborative AI for Edge Devices
+
+> An AI framework concept designed to enable **collaborative computing across edge devices**, focusing on distributed intelligence and edge-based problem solving.
+
+**Focus:** Edge AI • Collaborative Computing • AI Systems
+
+---
+
+### 💬 Ethical AI Chatbot
+
+> A responsible AI chatbot designed to provide supportive conversations for female students, with emphasis on **user-centric design and ethical AI principles**.
+
+**Focus:** Responsible AI • Conversational AI • User-Centric Design
+
+---
+
+### 🚦 Smart Traffic Management System
+
+> An **Arduino-based adaptive traffic control system** designed to respond to vehicle density through hardware integration and sensor-driven automation.
+
+**Focus:** Arduino • IoT • Smart Automation • Embedded Systems
+
+---
+
+## 🏆 Hackathons & Innovation
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Nebius-Nova%20AI%20Buildathon-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tata%20Technologies-InnoVent-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PRISM%20Samsung-Clash%20of%20Claw-1428A0?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+> 💡 I enjoy turning ideas into working prototypes, experimenting with emerging technologies, and building solutions for real-world problems.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/Tejzraj" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tejzraj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats"/>
+</a>
+
+<a href="https://github.com/Tejzraj" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejzraj&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+</a>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Tejzraj&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F78166&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=58A6FF&sideNums=58A6FF" width="70%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<a href="https://github.com/Tejzraj" target="_blank">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejzraj&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F78166&area=true&area_color=58A6FF&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph"/>
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Tejzraj/Tejzraj/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tejzraj/Tejzraj/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Tejzraj/Tejzraj/output/github-contribution-grid-snake.svg"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Tejzraj/Tejzraj/output/github-contribution-grid-snake-dark.svg"
+  />
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/Tejzraj/Tejzraj/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+ alt="GitHub contribution snake"
+ src="https://raw.githubusercontent.com/Tejzraj/Tejzraj/output/github-contribution-grid-snake.svg"
+/>
+
 </picture>
 
 </div>
 
----
-
-## 🎯 &nbsp; Current Focus
-
-<table>
-<tr>
-<td width="50%">
-
-**🔭 Currently Building**
-- AI-powered SaaS platforms with RAG pipelines
-- Real-time full-stack applications
-- Smart automation tools with LLM reasoning
-
-**🌱 Currently Learning**
-- LLM fine-tuning & RLHF
-- Kubernetes at scale
-- Rust programming language
-
-</td>
-<td width="50%">
-
-**⚡ Side Quests**
-- Open-source ML tooling contributions
-- Building in public & sharing learnings
-- Writing deep technical breakdowns
-
-**💡 2025 Goals**
-- Ship 3 production AI products
-- Reach 100+ GitHub stars
-- Mentor junior developers
-
-</td>
-</tr>
-</table>
+> ⚠️ The snake requires a GitHub Actions workflow in your profile repository. If it does not appear yet, the README itself is correct—the workflow must generate the files inside the `output` branch/folder.
 
 ---
 
-## 📌 &nbsp; Featured Projects
+## 🏹 Beyond Code
 
 <div align="center">
 
-[![CyberLex-AI](https://github-readme-stats.vercel.app/api/pin/?username=Tejzraj&repo=CyberLex-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Tejzraj/CyberLex-AI)
-&nbsp;
-[![synthshield](https://github-readme-stats.vercel.app/api/pin/?username=Tejzraj&repo=synthshield&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Tejzraj/synthshield)
-
-[![YuktiAI](https://github-readme-stats.vercel.app/api/pin/?username=Tejzraj&repo=YuktiAI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Tejzraj/YuktiAI)
+|    🧠 Technical   |         🤝 Leadership         |      🏹 Personal      |
+| :---------------: | :---------------------------: | :-------------------: |
+|  AI & ML Research |      Co-Coordinator — NSS     |    Archery Athlete    |
+|  Computer Vision  | Technical Team — Kannada CARV | Photography & Editing |
+|    IoT Systems    |       Team Coordination       |     Dance & Sports    |
+| 150+ DSA Problems |       Campus Initiatives      |  Continuous Learning  |
 
 </div>
 
 ---
 
-## 📬 &nbsp; Get in Touch
+## 🎯 Current Goals
+
+```text
+[██████████░░░░░░░░░░] Build more real-world AI systems
+[████████████░░░░░░░░] Deepen Computer Vision expertise
+[██████████████░░░░░░] Strengthen DSA problem solving
+[████████████░░░░░░░░] Contribute to meaningful innovation
+[███████████████░░░░░] Learn through research & hackathons
+```
+
+---
+
+## 📬 Let's Connect
 
 <div align="center">
 
-<a href="mailto:likhithraj155@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:likhithraj155@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 &nbsp;
-<a href="https://github.com/Tejzraj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<a href="https://github.com/Tejzraj" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 &nbsp;
-<a href="https://linkedin.com/in/likhith-raj-070861398"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<a href="https://www.linkedin.com/in/likhith-raj-070861398" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 &nbsp;
-<a href="https://twitter.com/Tejzraj"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+
+<a href="https://leetcode.com/u/profraj/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
 
 <br/><br/>
 
->  *"**ಕಾಲಾಯ ತಸ್ಮೈ ನಮಃ**"*
+### 💬 Open to
+
+**Collaborations • AI/ML Projects • Research Opportunities • Hackathons • Interesting Ideas**
 
 <br/>
 
-**Open to collaborations, freelance projects, and interesting ideas — let's build together! 🚀**
+> *"ಕಾಲಾಯ ತಸ್ಮೈ ನಮಃ"*
+
+<br/>
+
+**Let's build intelligent solutions for real-world problems. 🚀**
 
 </div>
 
@@ -238,6 +398,8 @@ const likhithRaj = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer" width="100%"/>
 
-<sub>⭐ <i>Crafted with passion · Powered by <a href="https://github.com/Tejzraj">Tejzraj</a></i> ⭐</sub>
+<br/>
+
+<sub>⭐ Crafted with curiosity, code, and countless experiments · <a href="https://github.com/Tejzraj" target="_blank">Tejzraj</a> ⭐</sub>
 
 </div>
