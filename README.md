@@ -224,7 +224,7 @@ const likhithRaj = {
 
 <br/><br/>
 
-> 💬 *"Consistency compounds. Build something every single day."*
+> 💬 *"**ಕಾಲಾಯ ತಸ್ಮೈ ನಮಃ**"*
 
 <br/>
 
@@ -238,6 +238,6 @@ const likhithRaj = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer" width="100%"/>
 
-<sub>⭐ <i>Crafted with passion · Automated with AI · Powered by <a href="https://github.com/Tejzraj">Tejzraj</a></i> ⭐</sub>
+<sub>⭐ <i>Crafted with passion · Powered by <a href="https://github.com/Tejzraj">Tejzraj</a></i> ⭐</sub>
 
 </div>
