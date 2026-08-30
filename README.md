@@ -443,7 +443,7 @@ user-centric conversations and ethical AI principles.
 | :---------------: | :---------------------------: | :-------------------: |
 |  AI & ML Research |      Co-Coordinator — NSS     |    Archery Athlete    |
 |  Computer Vision  | Technical Team — Kannada CARV | Photography & Editing |
-|    IoT Systems    |       Team Coordination       |     Dance & Sports    |
+|    IoT Systems    |       Team Coordination       |         Dance         |
 | 150+ DSA Problems |       Campus Initiatives      |  Continuous Learning  |
 
 </div>
