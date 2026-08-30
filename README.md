@@ -487,13 +487,13 @@ user-centric conversations and ethical AI principles.
 
 <br/><br/>
 
-### 💬 Open to
+###  Open to
 
 **Collaborations • AI/ML Projects • Research Opportunities • Hackathons • Interesting Ideas**
 
 <br/>
 
-> *"ಕಾಲಾಯ ತಸ್ಮೈ ನಮಃ"*
+> ***"ಕಾಲಾಯ ತಸ್ಮೈ ನಮಃ"***
 
 <br/>
 
