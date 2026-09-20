@@ -78,7 +78,7 @@ B.E. Computer Science & Engineering
 **Artificial Intelligence & Machine Learning**
 
 📅 2024 – 2028
-🎯 **CGPA: 8.36 / 10**
+🎯 **CGPA: 8.37 / 10**
 
 <br/>
 
